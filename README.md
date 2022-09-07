@@ -17,3 +17,5 @@ Conclusion. To implement asynchronous code in JavaScript we use callback functio
 **The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value**
 ### Microservices vs. APIs
 Microservices is an approach to building an application that **breaks its functionality into modular components.** APIs are part of an application that **communicates with other applications.** So, APIs can be used to enable microservices. As a result, you can make it easier to create software. 
+### DRY
+Don't repeat yourself
