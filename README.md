@@ -2,6 +2,7 @@
 
 ### What is Package lock json?
 The goal of package-lock. json file is to keep track of the exact version of every package that is installed so that a product is 100% reproducible in the same way even if packages are updated by their maintainers.
+package-lock. json is **automatically generated for any operations where npm modifies either the node_modules tree, or package.json.** It describes the exact tree that was generated, such that subsequent installs are able to generate identical trees, regardless of intermediate dependency updates
 
 ### NGX
 ngx = Angular + x (redefined/modern/new/next-gen) update like ngx-bootstrap
